@@ -1,0 +1,19 @@
+[
+    {
+        "Name" : "Thanapat" ,
+        "LastName" : "Nunthasri" ,
+        "UserName" : "kusthanapat" ,
+        "Email" : "forkus156155@gmail.com" ,
+        "Password" : "123456" ,
+        "Phone" : "0856041115"
+    },
+    
+    {
+        "Name" : "Arnupap" ,
+        "LastName" : "Suyawa" ,
+        "UserName" : "faynfayn" ,
+        "Email" : "faynfayn@gmail.com" ,
+        "Password" : "123456" ,
+        "Phone" : "0897895469"
+    }
+]
